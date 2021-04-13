@@ -1,6 +1,11 @@
 # Spell Checker
 A CLI Java App to Check for Spell Errors and Present Word Suggestions
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-green)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Made%20with-Java-red)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 The goal of this project is to provide a command-line application, written in Java, that interprets user word input, validates it, detects spelling errors and presents word suggestions to fix them.
